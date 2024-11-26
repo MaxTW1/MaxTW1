@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning [NUMPY, PANDAS, SQL]
 
 
 <!---
